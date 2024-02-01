@@ -27,4 +27,4 @@ def count_def(ary)
 end
 
 
-solve(INPUT2)
+solve(INPUT1)
