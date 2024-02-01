@@ -1,11 +1,3 @@
-INPUT1 = <<~"EOS"
-5*32*2
-EOS
-
-INPUT2 = <<~"EOS"
-998244354
-EOS
-
 input = gets.chomp
 CONS = 998244353
 nums = input.split("*").map(&:to_i)
